@@ -1,0 +1,24 @@
+{
+	"description": "Template for back-end and front-end",
+	"version": "1.3",
+	"name": "juanrdlo/front-back-codeigniter",
+	"type": "project",
+	"homepage": "https://github.com/juanrdlo/front-back-codeigniter.git",
+	"license": "MIT",
+	"minimum-stability":"dev",
+	"authors": [
+        {
+            "name": "Juan R. De Leon Osorio",
+            "email": "juanrdlo25@gmail.com"
+        }
+    ],
+	"support": {
+		"forum": "https://forum.codeigniter.com/",
+		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+		"slack": "https://codeigniterchat.slack.com",
+		"source": "https://github.com/bcit-ci/CodeIgniter"
+	},
+	"require": {
+		"php": ">=5.4.8"
+	}
+}
